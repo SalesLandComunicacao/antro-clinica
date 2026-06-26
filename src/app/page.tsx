@@ -81,8 +81,8 @@ function Hero() {
   return (
     <section className="relative overflow-hidden min-h-[88vh] flex items-center">
       <Image
-        src="/locais/clinicare.jpg"
-        alt="Atendimento da equipe Anbro"
+        src="/hero/clinica-procedure.jpg"
+        alt="Atendimento da equipe Anbro durante procedimento"
         fill
         priority
         sizes="100vw"
